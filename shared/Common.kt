@@ -1,5 +1,5 @@
 
-    // Copyright (C) 2024, User's Name
+    // Copyright (C) 2024, Jerry Tan
     // This is a common Kotlin Multiplatform file shared across iOS and Android.
     
     package com.example.shared
