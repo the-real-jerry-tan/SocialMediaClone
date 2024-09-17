@@ -1,5 +1,5 @@
 
-    // Copyright (C) 2024, User's Name
+    // Copyright (C) 2024, Jerry Tan
     // Main Activity for Android app
 
     package com.example.androidApp
